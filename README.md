@@ -24,8 +24,6 @@ Event Handling: Responding dynamically to user interactions like mouse clicks an
 
 Object-Oriented Programming: Implementing inheritance for clean and reusable code.
 
-📹 Check out the demo video attached!
-
 📂 Technologies Used:
 
 Java 
