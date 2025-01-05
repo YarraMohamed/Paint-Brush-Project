@@ -28,6 +28,4 @@ Object-Oriented Programming: Implementing inheritance for clean and reusable cod
 
 📂 Technologies Used:
 
-Java
-
-Java AWT and Swing libraries
+Java 
